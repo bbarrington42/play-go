@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+codeStyles/
+encodings.xml
+misc.xml
+modules.xml
+play-go.iml
+sbt.xml
+vcs.xml
+
+
+# ####
+.idea/
